@@ -127,6 +127,7 @@ scissor.addEventListener("click",()=>{
 });
 
 
+
 const container=document.createElement("div");
 const body=document.querySelector("body");
 body.appendChild(container);
