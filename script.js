@@ -126,7 +126,6 @@ scissor.addEventListener("click",()=>{
     playRound("scissor",getComputerChoice());
 });
 
-
 const container=document.createElement("div");
 const body=document.querySelector("body");
 body.appendChild(container);
